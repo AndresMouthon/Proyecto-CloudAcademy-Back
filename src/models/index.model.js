@@ -1,0 +1,11 @@
+require("./persona/TipoDocumento.model");
+require("./localidad/Departamento.model");
+require("./localidad/Ciudad.model");
+require("./localidad/Subdivision.model");
+require("./persona/Persona.model");
+require("./admin/Rol.model");
+require("./admin/Administrador.model");
+require("./admin/Rector.model");
+require("./admin/Alumno.model");
+require("./admin/Docente.model");
+require("./admin/Acudiente.model");
